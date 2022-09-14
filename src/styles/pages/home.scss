@@ -4,6 +4,26 @@
     // background-image: "../../images/heros/home.png";
     background-size: cover;
     height: 900px;
+    background-position: center center;
+  }
+
+  &__text {
+    max-width: 600px;
+  }
+
+  &__title {
+    font-size: 6.4rem;
+    line-height: 130%;   
+    margin-bottom: 2rem;
+  }
+
+  &__description {
+    font-size: 2.3rem;
+    font-weight: 300;
+  }
+
+  &__image {
+    max-width: 400px;
   }
 
 }
