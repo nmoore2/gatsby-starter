@@ -7,7 +7,9 @@ module.exports = {
     theme: {
       colors: {
         'gold': '#b79862',
-        'blue': '#386ff9'
+        'blue': '#386ff9',
+        'white': '#ffffff',
+        'black': '#000000'
       },
       fontFamily: {
         sans: ['Graphik', 'sans-serif'],
@@ -23,5 +25,6 @@ module.exports = {
         }
       }
     },
+  darkMode: 'class',
   plugins: [],
 }
